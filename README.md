@@ -1,4 +1,4 @@
-# TweedLexx
+# 👨‍💻TweedLexx
 
 **`Digital Craftsman (Devloper/Gamer)`**
 
@@ -27,3 +27,8 @@ update!!
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+      
+### 📊 Stats
+
+![Tweedlexs GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
