@@ -3,7 +3,9 @@
 **`Digital Craftsman (Devloper/Gamer)`**
 
 
-update!!
+**Devloper at Day, Gamer at Night.**
+
+#
 
 <p align="left">
       <a href="https://twitter.com/super_botjs">
