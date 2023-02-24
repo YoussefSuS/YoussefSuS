@@ -1,9 +1,9 @@
 # 👨‍💻TweedLexx
 
-**`Digital Craftsman (Devloper/Gamer)`**
+**`Digital Craftsman (Developer/Gamer)`**
 
 
-**Devloper at Day, Gamer at Night.**
+*Developer at Day, Gamer at Night.*
 
 #
 
